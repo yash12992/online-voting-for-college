@@ -1,1 +1,1 @@
-# online-voting-for-college
+# online-voting-system
